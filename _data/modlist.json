@@ -96,6 +96,18 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -148,5 +160,59 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.3.0.0.biotech.B4"
+  },
+  {
+    "author": "the_heye",
+    "name": "Twitch Chat",
+    "steamId": "2075845400",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "ShadowTani",
+    "name": "Chemicals & Neutroamine",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lucifer",
+    "name": "Realistic Rooms Rewritten",
+    "steamId": "2558042766",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, dninemfive and Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
   }
 ]
